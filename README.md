@@ -1,6 +1,6 @@
 # MediSphere - Smart Hospitalization
 
-![MediSphere Banner](https://via.placeholder.com/1200x400.png?text=MediSphere+-+Smart+Hospitalization)
+
 
 ---
 
@@ -34,60 +34,59 @@ MediSphere-Smart-Hospitalization/
 ├── package.json
 └── LICENSE
 
- Tech Stack Used
+### Tech Stack Used
+
+
 Frontend:
 
+
 React.js
-
 Tailwind CSS / Bootstrap
-
 Axios (for API calls)
 
 Backend:
 
+
 Node.js
-
 Express.js
-
 MongoDB
-
 Mongoose (ODM)
 
 Others:
 
+
 Git & GitHub
-
 Postman (API testing)
+clerk authentication
 
-JWT (Authentication)
+
 
 ### 🚀 Features
-✅ Doctor appointment booking system
-✅ Electronic Health Record (EHR) management
-✅ Secure user authentication and authorization
-✅ Patient and Doctor profile management
-✅ Smart dashboard for users and admins
-✅ Responsive and mobile-friendly UI
-✅ API security best practices
+
+- Doctor appointment booking system
+- Electronic Health Record (EHR) management
+- Secure user authentication and authorization
+- Patient and Doctor profile management
+- Smart dashboard for users and admins
+- Responsive and mobile-friendly UI
+- API security best practices
 
 ### 🛠️ Future Improvements
-Add real-time chat between patients and doctors
 
-Implement AI-based appointment suggestions
-
-Enable video consultations through WebRTC
-
-Add SMS and email appointment notifications
-
-Admin dashboard with detailed analytics and reports
-
-Improve accessibility (ADA compliance)
-
-Deploy on cloud services (AWS, Azure, GCP)
+1. Add real-time chat between patients and doctors
+2. Implement AI-based appointment suggestions
+3. Enable video consultations through WebRTC
+4. Add SMS and email appointment notifications
+5. Admin dashboard with detailed analytics and reports
+6. Improve accessibility (ADA compliance)
+7. Deploy on cloud services (AWS, Azure, GCP)
 
 ### 🤝 Contributors
-abhiram bikkina
-dhinesh veera 
-tharun kumar 
-pavan vignesh
-kuladeep reddy
+
+- abhiram bikkina
+- dhinesh veera
+- tharun kumar
+- pavan vignesh
+- kuladeep reddy
+
+
