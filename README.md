@@ -63,13 +63,26 @@ clerk authentication
 
 ### 🚀 Features
 
-- Doctor appointment booking system
-- Electronic Health Record (EHR) management
-- Secure user authentication and authorization
-- Patient and Doctor profile management
-- Smart dashboard for users and admins
-- Responsive and mobile-friendly UI
-- API security best practices
+1. 🤖 AI-Powered Chat Assistant with Smart Task Classification
+Your built-in assistant intelligently classifies user inputs into medical, general, or doctor-related reminders.
+This enables automated, personalized scheduling — improving adherence to medications, checkups, or general health routines.
+
+2. 📊 Automated Health Report Analysis with Graph Generation
+The system scans uploaded reports (e.g., lab results) and generates visual graphs to show trends like sugar levels or BP.
+Empowers patients and doctors to monitor health progression visually and make timely decisions.
+
+3. 📅 Doctor Appointment Booking with EHR Integration
+Patients can book appointments that are directly tied to their EHR, ensuring doctors have complete context.
+Reduces redundant data entry and improves consultation efficiency.
+---
+
+4 📁 *Comprehensive & Secure Electronic Health Record (EHR) Management*
+
+MediSphere securely stores a patient’s complete medical history—including past diagnoses, surgeries, prescriptions, and vaccination records—with *role-based access control* and *end-to-end encryption*. This ensures safe, centralized access to critical health data for patients, doctors, and authorized staff, enabling seamless care coordination and long-term health tracking.
+
+5 🚑 *Integrated Healthcare Services: Pharmacy, Emergency SOS & Lab Booking*
+
+MediSphere offers a unified services module where users can *book medicines* from nearby pharmacies, *trigger one-tap SOS alerts* to locate the nearest hospital and dispatch an ambulance, and *schedule lab tests with home sample collection*. These features enhance accessibility, speed, and convenience—especially for rural and elderly users—bringing critical healthcare support directly to their fingertips.
 
 ### 🛠️ Future Improvements
 
