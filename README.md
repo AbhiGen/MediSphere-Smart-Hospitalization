@@ -74,14 +74,11 @@ Empowers patients and doctors to monitor health progression visually and make ti
 3. 📅 Doctor Appointment Booking with EHR Integration
 Patients can book appointments that are directly tied to their EHR, ensuring doctors have complete context.
 Reduces redundant data entry and improves consultation efficiency.
----
 
 4 📁 *Comprehensive & Secure Electronic Health Record (EHR) Management*
-
 MediSphere securely stores a patient’s complete medical history—including past diagnoses, surgeries, prescriptions, and vaccination records—with *role-based access control* and *end-to-end encryption*. This ensures safe, centralized access to critical health data for patients, doctors, and authorized staff, enabling seamless care coordination and long-term health tracking.
 
 5 🚑 *Integrated Healthcare Services: Pharmacy, Emergency SOS & Lab Booking*
-
 MediSphere offers a unified services module where users can *book medicines* from nearby pharmacies, *trigger one-tap SOS alerts* to locate the nearest hospital and dispatch an ambulance, and *schedule lab tests with home sample collection*. These features enhance accessibility, speed, and convenience—especially for rural and elderly users—bringing critical healthcare support directly to their fingertips.
 
 ### 🛠️ Future Improvements
